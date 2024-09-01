@@ -1,6 +1,7 @@
 Gitにあげてから、randomの綴りを間違えていることに気づいた。
 
-乱数生成
+乱数生成（重複なし）
+[https://seri-random-num.deno.dev/](https://seri-random-num.deno.dev/)
 
 ```
 deno task start
